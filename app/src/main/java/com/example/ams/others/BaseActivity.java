@@ -30,7 +30,6 @@ public class BaseActivity extends AppCompatActivity {
             progressDialog.dismiss();
 
     }
-
     @Override
     protected void onStop() {
         super.onStop();
